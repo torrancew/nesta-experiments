@@ -1,4 +1,5 @@
 ._*
+.rvmrc
 .*.swp
 .bundle
 .DS_Store
