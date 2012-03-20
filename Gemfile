@@ -8,7 +8,7 @@ gem 'less',          '2.0.11'
 gem 'coffee-script', '2.2.0'
 
 # Rack Middleware
-gem 'rack-codehighlighter', '0.5.0'
+gem 'rack-codehighlighter', '0.5.0', :require => 'rack/codehighlighter'
 
 # Testing Gems
 group :test do
