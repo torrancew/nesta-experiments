@@ -3,6 +3,9 @@ source 'http://rubygems.org'
 # CMS Platform
 gem 'nesta', '0.9.13'
 
+# Sinatra Extensions
+gem 'sinatra-assetpack'
+
 # Asset Gems
 gem 'less',          '2.0.11'
 gem 'coffee-script', '2.2.0'
